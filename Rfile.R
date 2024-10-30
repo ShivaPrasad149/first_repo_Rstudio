@@ -1,2 +1,3 @@
 print("My First Repository after Configuring with Rstudio")
-print("Third Commit")S
+print("Third Commit")
+print("pulling")
